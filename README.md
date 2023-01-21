@@ -1,10 +1,12 @@
 ### Выполненые работы по "Инженер больших данных на Python"
 во время обучения в [Центре digital профессий ITtensive](https://ittensive.com/)
+(Completed work on "Big Data Engineer in Python"
+while studying at)
 
-#### Краткое описание файлов
+#### Краткое описание файлов (Brief description of the files)
 ___
 1. G_Activ_Moskow(Generating_reports).. 
-*получение данные с WEB, Json, подготовка, обработка данных Pandas, диаграмма Matplotlib, формирование отчета и сохранение в PDF.*
+*получение данные с WEB, Json, подготовка, обработка данных Pandas, диаграмма Matplotlib, формирование отчета и сохранение в PDF.(getting data from WEB, Json, preparation, processing of Pandas data, Matplotlib diagram, report generation and saving to PDF)*
 
 2. G_automatic_reports(Email_sending_integration)..
 *получение данные с WEB, CSV, подготовка, обработка данных Pandas, диаграмма Matplotlib, формирование отчета и сохранение в PDF, подготовка Email, HTML, отправка с вложением.*
