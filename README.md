@@ -1,4 +1,4 @@
-### Выполненые работы по "Инженер больших данных на Python"
+### Выполненые работы по анализу данных, курс "Инженер больших данных на Python"
 во время обучения в [Центре digital профессий ITtensive](https://ittensive.com/)
 (Completed work on "Big Data Engineer in Python"
 while studying at)
