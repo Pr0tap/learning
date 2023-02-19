@@ -8,7 +8,7 @@
   * линейная регрессия.
   * 
 (Completed work on "Big Data Engineer in Python"
-while studying at)
+while studying )
 
 #### Краткое описание файлов (Brief description of the files)
 ___
