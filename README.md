@@ -56,8 +56,8 @@ ___
 17. G_Visualization_stock_charts(Time_series)..
 *построение многоцветных графиков для разных наборов данных на одном полотне. использовал, matplotlib.pyplot, pandas*
 
-G_ashrae-energy-prediction.ipynb..
-*расчет энерго потребления здании, ансабли, линейная регрессия, использовал sklearn.linear_model,scipy.interpolate, numpy, pandas, интерполяция,обогащение данныхлогарифмированием и дифференцированием, обогащение набора даты (часами, днями, неделями, месяцами и праздничные дни)*
+18. G_ashrae-energy-prediction.ipynb..
+*расчет энерго потребления здании, ансабли, линейная регрессия, использовал sklearn.linear_model,scipy.interpolate, numpy, pandas, интерполяция,обогащение данныхлогарифмированием и дифференцированием, обогащение набора даты (часами, днями, неделями, месяцами и праздничные дни).*
 
-G_concurentnaya_model.ipynb, G_parametricheskaya_model_enegy.ip, Git_LinearRegression.ipynb..
-* пошаговое освоение курса, выполнение промежуточных заданий.
+19. G_concurentnaya_model.ipynb, G_parametricheskaya_model_enegy.ip, Git_LinearRegression.ipynb..
+* пошаговое освоение курса, выполнение промежуточных заданий.*
