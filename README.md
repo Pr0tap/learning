@@ -1,5 +1,8 @@
 ### Выполненые работы по курсу "Инженер больших данных на Python"
 во время обучения в [Центре digital профессий ITtensive](https://ittensive.com/)
+
+(Completion of work "Big Data Engineer in Python" while studying )
+
 пройденные курсы:
 * основы математической статистики
 * базовый SQL
@@ -7,8 +10,7 @@
 * машинное обучение:
   * линейная регрессия.
   * 
-(Completed work on "Big Data Engineer in Python"
-while studying )
+
 
 #### Краткое описание файлов (Brief description of the files)
 ___
